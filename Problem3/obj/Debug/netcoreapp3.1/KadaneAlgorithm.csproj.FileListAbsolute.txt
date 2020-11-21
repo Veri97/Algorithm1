@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Problem3-master\Problem3\bin\Debug\netcoreapp3.1\KadaneAlgorithm.exe
+C:\Users\User\Desktop\Problem3-master\Problem3\bin\Debug\netcoreapp3.1\KadaneAlgorithm.deps.json
+C:\Users\User\Desktop\Problem3-master\Problem3\bin\Debug\netcoreapp3.1\KadaneAlgorithm.runtimeconfig.json
+C:\Users\User\Desktop\Problem3-master\Problem3\bin\Debug\netcoreapp3.1\KadaneAlgorithm.runtimeconfig.dev.json
+C:\Users\User\Desktop\Problem3-master\Problem3\bin\Debug\netcoreapp3.1\KadaneAlgorithm.dll
+C:\Users\User\Desktop\Problem3-master\Problem3\bin\Debug\netcoreapp3.1\KadaneAlgorithm.pdb
+C:\Users\User\Desktop\Problem3-master\Problem3\obj\Debug\netcoreapp3.1\KadaneAlgorithm.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Problem3-master\Problem3\obj\Debug\netcoreapp3.1\KadaneAlgorithm.AssemblyInfo.cs
+C:\Users\User\Desktop\Problem3-master\Problem3\obj\Debug\netcoreapp3.1\KadaneAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Problem3-master\Problem3\obj\Debug\netcoreapp3.1\KadaneAlgorithm.dll
+C:\Users\User\Desktop\Problem3-master\Problem3\obj\Debug\netcoreapp3.1\KadaneAlgorithm.pdb
+C:\Users\User\Desktop\Problem3-master\Problem3\obj\Debug\netcoreapp3.1\KadaneAlgorithm.genruntimeconfig.cache
